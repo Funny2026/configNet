@@ -1,0 +1,432 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8354388103339137316
+  },
+  "m_Name": "R73_Autumn2025",
+  "cornerImagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Autumn/Emoji_PinCollection_Corners_Autumn.png",
+  "ornamentImagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Autumn/Emoji_PinCollection_Ornament_Autumn.png",
+  "gradientImagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Autumn/Emoji_PinCollection_SkyGradient_Autumn.png",
+  "bootPromoPinIds": "pin_3_set_9,pin_2_set_1,pin_2_set_6,pin_6_set_1",
+  "setAssets": [
+    {
+      "uid": "set_1",
+      "binderAssetPath": "Assets/PinCollectionEventAssets/Binders/pink1.asset",
+      "binderAssets": {
+        "m_FileID": 1,
+        "m_PathID": -5036693834343732274
+      },
+      "pinAssets": [
+        {
+          "uid": "pin_1_set_1",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Salad.png"
+        },
+        {
+          "uid": "pin_2_set_1",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Cornucopia.png"
+        },
+        {
+          "uid": "pin_3_set_1",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_GravyBoat.png"
+        },
+        {
+          "uid": "pin_4_set_1",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Cloiche.png"
+        },
+        {
+          "uid": "pin_5_set_1",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Turkey.png"
+        },
+        {
+          "uid": "pin_6_set_1",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_PumpkinPie.png"
+        },
+        {
+          "uid": "pin_7_set_1",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Ratatouille.png"
+        },
+        {
+          "uid": "pin_8_set_1",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_AugusteGusteau_Excited.png"
+        },
+        {
+          "uid": "pin_9_set_1",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_MashedPotatoes.png"
+        }
+      ]
+    },
+    {
+      "uid": "set_2",
+      "binderAssetPath": "Assets/PinCollectionEventAssets/Binders/blue2.asset",
+      "binderAssets": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "pinAssets": [
+        {
+          "uid": "pin_1_set_2",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Thermos.png"
+        },
+        {
+          "uid": "pin_2_set_2",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_StackOfBooks.png"
+        },
+        {
+          "uid": "pin_3_set_2",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Coffee.png"
+        },
+        {
+          "uid": "pin_4_set_2",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_CandleSilverHolder.png"
+        },
+        {
+          "uid": "pin_5_set_2",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Fireplace.png"
+        },
+        {
+          "uid": "pin_6_set_2",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Smee_Kettle.png"
+        },
+        {
+          "uid": "pin_7_set_2",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_RetroTV.png"
+        },
+        {
+          "uid": "pin_8_set_2",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Sleepy_Sleeping.png"
+        },
+        {
+          "uid": "pin_9_set_2",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_HolidayScrooge_Bed.png"
+        }
+      ]
+    },
+    {
+      "uid": "set_3",
+      "binderAssetPath": "Assets/PinCollectionEventAssets/Binders/pink4.asset",
+      "binderAssets": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "pinAssets": [
+        {
+          "uid": "pin_1_set_3",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Sunflower.png"
+        },
+        {
+          "uid": "pin_2_set_3",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Tractor.png"
+        },
+        {
+          "uid": "pin_3_set_3",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_CornStalk.png"
+        },
+        {
+          "uid": "pin_4_set_3",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_PicnicBasket.png"
+        },
+        {
+          "uid": "pin_5_set_3",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_FarmersMarketBooth.png"
+        },
+        {
+          "uid": "pin_6_set_3",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Scarecrow.png"
+        },
+        {
+          "uid": "pin_7_set_3",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_PumpkinMinnie_PowerUp.png"
+        },
+        {
+          "uid": "pin_8_set_3",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_FallSnapshot.png"
+        },
+        {
+          "uid": "pin_9_set_3",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_PumpkinMickey_Gross.png"
+        }
+      ]
+    },
+    {
+      "uid": "set_4",
+      "binderAssetPath": "Assets/PinCollectionEventAssets/Binders/blue1.asset",
+      "binderAssets": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "pinAssets": [
+        {
+          "uid": "pin_1_set_4",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_MrIncredible_Default.png"
+        },
+        {
+          "uid": "pin_2_set_4",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_ParrHouse.png"
+        },
+        {
+          "uid": "pin_3_set_4",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Elastigirl_Default.png"
+        },
+        {
+          "uid": "pin_4_set_4",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Glove_Love.png"
+        },
+        {
+          "uid": "pin_5_set_4",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_ProudFamilyPolaroid.png"
+        },
+        {
+          "uid": "pin_6_set_4",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_UpHouse.png"
+        },
+        {
+          "uid": "pin_7_set_4",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Bruno_Excited.png"
+        },
+        {
+          "uid": "pin_8_set_4",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_MadrigalHouse.png"
+        },
+        {
+          "uid": "pin_9_set_4",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Mirabel_Grimace.png"
+        }
+      ]
+    },
+    {
+      "uid": "set_5",
+      "binderAssetPath": "Assets/PinCollectionEventAssets/Binders/orange1.asset",
+      "binderAssets": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "pinAssets": [
+        {
+          "uid": "pin_1_set_5",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_EncantoMagicCandle.png"
+        },
+        {
+          "uid": "pin_2_set_5",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Sunrise.png"
+        },
+        {
+          "uid": "pin_3_set_5",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Peanut.png"
+        },
+        {
+          "uid": "pin_4_set_5",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Pawprint.png"
+        },
+        {
+          "uid": "pin_5_set_5",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_PumpkinMinnie_Pumpkin.png"
+        },
+        {
+          "uid": "pin_6_set_5",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Oliver_Excited.png"
+        },
+        {
+          "uid": "pin_7_set_5",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Fawn_Default.png"
+        },
+        {
+          "uid": "pin_8_set_5",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Walnut.png"
+        },
+        {
+          "uid": "pin_9_set_5",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Simba_PowerUp.png"
+        }
+      ]
+    },
+    {
+      "uid": "set_6",
+      "binderAssetPath": "Assets/PinCollectionEventAssets/Binders/teal2.asset",
+      "binderAssets": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "pinAssets": [
+        {
+          "uid": "pin_1_set_6",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Acorn.png"
+        },
+        {
+          "uid": "pin_2_set_6",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_PocahontasLeaf.png"
+        },
+        {
+          "uid": "pin_3_set_6",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Mushroom.png"
+        },
+        {
+          "uid": "pin_4_set_6",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Weather_Wind.png"
+        },
+        {
+          "uid": "pin_5_set_6",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_DandyLion.png"
+        },
+        {
+          "uid": "pin_6_set_6",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Pinecone.png"
+        },
+        {
+          "uid": "pin_7_set_6",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_ColorsOfTheWindPocahontas_Excited.png"
+        },
+        {
+          "uid": "pin_8_set_6",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_PineTreeForestNight.png"
+        },
+        {
+          "uid": "pin_9_set_6",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_PineconePluto_Default.png"
+        }
+      ]
+    },
+    {
+      "uid": "set_7",
+      "binderAssetPath": "Assets/PinCollectionEventAssets/Binders/red1.asset",
+      "binderAssets": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "pinAssets": [
+        {
+          "uid": "pin_1_set_7",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_MickeyCandyApple.png"
+        },
+        {
+          "uid": "pin_2_set_7",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Cookie.png"
+        },
+        {
+          "uid": "pin_3_set_7",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_CaramelApple.png"
+        },
+        {
+          "uid": "pin_4_set_7",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Milkshake.png"
+        },
+        {
+          "uid": "pin_5_set_7",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Candycorn_Sneaky.png"
+        },
+        {
+          "uid": "pin_6_set_7",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Churro.png"
+        },
+        {
+          "uid": "pin_7_set_7",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_IceCreamMickey_Love.png"
+        },
+        {
+          "uid": "pin_8_set_7",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_HoneyCakePooh_Excited.png"
+        },
+        {
+          "uid": "pin_9_set_7",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_CherryPieMinnie_PowerUp.png"
+        }
+      ]
+    },
+    {
+      "uid": "set_8",
+      "binderAssetPath": "Assets/PinCollectionEventAssets/Binders/green1.asset",
+      "binderAssets": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "pinAssets": [
+        {
+          "uid": "pin_1_set_8",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Owl.png"
+        },
+        {
+          "uid": "pin_2_set_8",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Skunk.png"
+        },
+        {
+          "uid": "pin_3_set_8",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Squirrel.png"
+        },
+        {
+          "uid": "pin_4_set_8",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_BlueButterfly.png"
+        },
+        {
+          "uid": "pin_5_set_8",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_PrinceOfTheForest.png"
+        },
+        {
+          "uid": "pin_6_set_8",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Bird.png"
+        },
+        {
+          "uid": "pin_7_set_8",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Thumper_Excited.png"
+        },
+        {
+          "uid": "pin_8_set_8",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Bambi_PowerUp.png"
+        },
+        {
+          "uid": "pin_9_set_8",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Tod_PowerUp.png"
+        }
+      ]
+    },
+    {
+      "uid": "set_9",
+      "binderAssetPath": "Assets/PinCollectionEventAssets/Binders/pink3.asset",
+      "binderAssets": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "pinAssets": [
+        {
+          "uid": "pin_1_set_9",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Coco_Marigold.png"
+        },
+        {
+          "uid": "pin_2_set_9",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Coco_SkullBadge.png"
+        },
+        {
+          "uid": "pin_3_set_9",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Coco_BasketFull.png"
+        },
+        {
+          "uid": "pin_4_set_9",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_AlebrijeDante_Excited.png"
+        },
+        {
+          "uid": "pin_5_set_9",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Coco_Stage.png"
+        },
+        {
+          "uid": "pin_6_set_9",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Pepita_PowerUp.png"
+        },
+        {
+          "uid": "pin_7_set_9",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Hector_Excited.png"
+        },
+        {
+          "uid": "pin_8_set_9",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_DisguisedMiguel_PowerUp.png"
+        },
+        {
+          "uid": "pin_9_set_9",
+          "imagePath": "Assets/Textures/UI/CloudTheme/Reskins/PinCollection/Pins/Emoji_PinCollection_Imelda_Default.png"
+        }
+      ]
+    }
+  ]
+}
