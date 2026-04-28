@@ -1,8 +1,11 @@
 {
   "versions": [
     {
-      "name": "76.0 (Apr 7)",
-      "data": "/versions/76/76.0U7.bin",
+      "name": "76.1 (Apr 28)",
+      "code": "76.1",
+      "updated": "2026-04-28",
+      "data": "/versions/76/76.1.bin",
+      "dataPrev": "/versions/76/76.0U7.bin",
       "newFeatureDate": "2026-04-21",
       "setAsDefault": true,
       "enabledContents": [
