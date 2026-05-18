@@ -1,11 +1,11 @@
 {
   "versions": [
     {
-      "name": "76.2 (May 12)",
+      "name": "76.2 (May 18)",
       "code": "76.2",
-      "updated": "2026-05-12",
-      "data": "/versions/76/76.2.bin",
-      "dataPrev": "/versions/76/76.1.bin",
+      "updated": "2026-05-18",
+      "data": "/versions/76/76.2.1.bin",
+      "dataPrev": "/versions/76/76.2.bin",
       "newFeatureDate": "2026-04-21",
       "setAsDefault": true,
       "enabledContents": [
