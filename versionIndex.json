@@ -29,10 +29,10 @@
       ]
     },
     {
-      "name": "77.0 (Unreleased) (May 23)",
+      "name": "77.0 (Unreleased) (May 27)",
       "code": "77.0",
-      "updated": "2026-05-23",
-      "data": "/versions/77/77.0U5.bin",
+      "updated": "2026-05-27",
+      "data": "/versions/77/77.0U6.bin",
       "dataPrev": "/versions/77/77.0U1.bin",
       "newFeatureDate": "2026-06-09",
       "isUnreleased": true,
