@@ -7,7 +7,6 @@
       "data": "/versions/76/76.2.1.bin",
       "dataPrev": "/versions/76/76.2.bin",
       "newFeatureDate": "2026-04-21",
-      "setAsDefault": true,
       "enabledContents": [
         "Emojis",
         "Events",
@@ -29,13 +28,12 @@
       ]
     },
     {
-      "name": "77.0 (Unreleased) (May 27)",
       "code": "77.0",
       "updated": "2026-05-27",
       "data": "/versions/77/77.0U7.bin",
       "dataPrev": "/versions/77/77.0U1.bin",
       "newFeatureDate": "2026-06-09",
-      "isUnreleased": true,
+      "setAsDefault": true,
       "enabledContents": [
         "Emojis",
         "Events",
