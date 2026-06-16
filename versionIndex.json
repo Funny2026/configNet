@@ -27,10 +27,10 @@
       ]
     },
     {
-      "code": "77.0",
-      "updated": "2026-05-27",
-      "data": "/versions/77/77.0U7.bin",
-      "dataPrev": "/versions/77/77.0U1.bin",
+      "code": "77.1",
+      "updated": "2026-06-15",
+      "data": "/versions/77/77.1.bin",
+      "dataPrev": "/versions/77/77.0U7.bin",
       "newFeatureDate": "2026-06-09",
       "setAsDefault": true,
       "enabledContents": [
