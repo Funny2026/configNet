@@ -1,32 +1,6 @@
 {
   "versions": [
     {
-      "code": "76.2",
-      "updated": "2026-05-29",
-      "data": "/versions/76/76.2.2.bin",
-      "dataPrev": "/versions/76/76.2.1.bin",
-      "newFeatureDate": "2026-04-21",
-      "enabledContents": [
-        "Emojis",
-        "Events",
-        "ShardEvents",
-        "EmojiUpgrades",
-        "WishingStarSeasons",
-        "MissionLevels",
-        "CascadingSales",
-        "GroupCollections",
-        "Giveaways",
-        "Calendars",
-        "GlobalSales",
-        "NarrativeSales",
-        "PrizeWheels",
-        "ShopBoxes",
-        "LuckyBoxes",
-        "PinCollections",
-        "Gumball"
-      ]
-    },
-    {
       "code": "77.1",
       "updated": "2026-06-15",
       "data": "/versions/77/77.1.bin",
