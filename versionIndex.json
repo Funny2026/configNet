@@ -334,7 +334,9 @@
     "R75HideAndSeekDisneyTV": "Disney Television",
     "R75PropWinnieThePooh": "Winnie the Pooh",
     "R76HideAndSeekMothersDay": "Mother's Day",
-    "R76ClearInsideOut": "Inside Out"
+    "R76ClearInsideOut": "Inside Out",
+    "R77PropFab5": "Mickey & Friends",
+    "R77TagTeamPerfectPairings": "Perfect Pairings"
   },
   "backgroundClassColors": {
     "Silver": "rgba(192,192,192,0.7);",
