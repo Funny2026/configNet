@@ -1,10 +1,10 @@
 {
   "versions": [
     {
-      "code": "77.1",
-      "updated": "2026-06-15",
-      "data": "/versions/77/77.1.bin",
-      "dataPrev": "/versions/77/77.0U7.bin",
+      "code": "77.2",
+      "updated": "2026-06-30",
+      "data": "/versions/77/77.2.bin",
+      "dataPrev": "/versions/77/77.1.bin",
       "newFeatureDate": "2026-06-09",
       "setAsDefault": true,
       "enabledContents": [
@@ -23,7 +23,8 @@
         "PrizeWheels",
         "ShopBoxes",
         "LuckyBoxes",
-        "PinCollections"
+        "PinCollections",
+        "SpecificSales"
       ]
     }
   ],
