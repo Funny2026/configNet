@@ -324,7 +324,10 @@
     "Reuben",
     "DrDawson",
     "Basil",
-    "SpaceshipEarth"
+    "SpaceshipEarth",
+    "StainedGlassMagicMirror",
+    "PumpkinCarriage",
+    "ElectricalParadeLightning"
   ],
   "eventNameOverrides": {
     "R72ClearSorcerersSpellboundSummit": "Sorcerer's Spellbound Summit",
@@ -337,7 +340,9 @@
     "R76HideAndSeekMothersDay": "Mother's Day",
     "R76ClearInsideOut": "Inside Out",
     "R77PropFab5": "Mickey & Friends",
-    "R77TagTeamPerfectPairings": "Perfect Pairings"
+    "R77TagTeamPerfectPairings": "Perfect Pairings",
+    "R78ClearUnderTheSea": "Under the Sea",
+    "R78HideAndSeekElectricalLightParade": "Electrical Parade"
   },
   "backgroundClassColors": {
     "Silver": "rgba(192,192,192,0.7);",
