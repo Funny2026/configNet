@@ -26,6 +26,32 @@
         "PinCollections",
         "EmojiSales"
       ]
+    },
+    {
+      "code": "78.0",
+      "updated": "2026-07-03",
+      "data": "/versions/77/78.0U1.bin",
+      "dataPrev": "/versions/77/77.2.bin",
+      "newFeatureDate": "2026-07-28",
+      "isUnreleased": true,
+      "enabledContents": [
+        "Emojis",
+        "Events",
+        "ShardEvents",
+        "EmojiUpgrades",
+        "WishingStarSeasons",
+        "MissionLevels",
+        "CascadingSales",
+        "GroupCollections",
+        "Giveaways",
+        "Calendars",
+        "GlobalSales",
+        "NarrativeSales",
+        "PrizeWheels",
+        "ShopBoxes",
+        "LuckyBoxes",
+        "PinCollections"
+      ]
     }
   ],
   "blacklistedEmojis": [
