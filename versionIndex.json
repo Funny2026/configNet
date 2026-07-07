@@ -2,9 +2,9 @@
   "versions": [
     {
       "code": "77.2",
-      "updated": "2026-06-30",
-      "data": "/versions/77/77.2.bin",
-      "dataPrev": "/versions/77/77.1.bin",
+      "updated": "2026-07-07",
+      "data": "/versions/77/77.2.1.bin",
+      "dataPrev": "/versions/77/77.2.bin",
       "newFeatureDate": "2026-06-09",
       "backgroundImage": "/backgrounds/77.png",
       "setAsDefault": true,
