@@ -30,8 +30,8 @@
     },
     {
       "code": "78.0",
-      "updated": "2026-07-10",
-      "data": "/versions/78/78.0U6.bin",
+      "updated": "2026-07-11",
+      "data": "/versions/78/78.0U7.bin",
       "dataPrev": "/versions/77/77.2.1.bin",
       "newFeatureDate": "2026-07-28",
       "isUnreleased": true,
