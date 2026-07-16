@@ -33,6 +33,7 @@
       "data": "/versions/78/78.0U10.bin",
       "dataPrev": "/versions/77/77.2.1.bin",
       "newFeatureDate": "2026-07-28",
+      "backgroundImage": "/backgrounds/78.png",
       "setAsDefault": true,
       "enabledContents": [
         "Emojis",
