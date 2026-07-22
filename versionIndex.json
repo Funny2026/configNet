@@ -1,37 +1,10 @@
 {
   "versions": [
     {
-      "code": "77.2",
-      "updated": "2026-07-07",
-      "data": "/versions/77/77.2.1.bin",
-      "dataPrev": "/versions/77/77.2.bin",
-      "newFeatureDate": "2026-06-09",
-      "backgroundImage": "/backgrounds/77.png",
-      "enabledContents": [
-        "Emojis",
-        "Events",
-        "ShardEvents",
-        "EmojiUpgrades",
-        "WishingStarSeasons",
-        "MissionLevels",
-        "CascadingSales",
-        "GroupCollections",
-        "Giveaways",
-        "Calendars",
-        "GlobalSales",
-        "NarrativeSales",
-        "PrizeWheels",
-        "ShopBoxes",
-        "LuckyBoxes",
-        "PinCollections",
-        "EmojiSales"
-      ]
-    },
-    {
       "code": "78.0",
       "updated": "2026-07-15",
-      "data": "/versions/78/78.0U10.bin",
-      "dataPrev": "/versions/77/77.2.1.bin",
+      "data": "/versions/78/78.0.1.bin",
+      "dataPrev": "/versions/78/78.0U10.bin",
       "newFeatureDate": "2026-07-28",
       "backgroundImage": "/backgrounds/78.png",
       "setAsDefault": true,
