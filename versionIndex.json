@@ -2,9 +2,9 @@
   "versions": [
     {
       "code": "78.0",
-      "updated": "2026-07-22",
-      "data": "/versions/78/78.0.1.bin",
-      "dataPrev": "/versions/78/78.0U10.bin",
+      "updated": "2026-07-23",
+      "data": "/versions/78/78.0.2.bin",
+      "dataPrev": "/versions/78/78.0.1.bin",
       "newFeatureDate": "2026-07-28",
       "backgroundImage": "/backgrounds/78.png",
       "setAsDefault": true,
@@ -24,7 +24,8 @@
         "PrizeWheels",
         "ShopBoxes",
         "LuckyBoxes",
-        "PinCollections"
+        "PinCollections",
+        "Announcements"
       ]
     }
   ],
