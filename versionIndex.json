@@ -1,10 +1,10 @@
 {
   "versions": [
     {
-      "code": "78.0",
-      "updated": "2026-07-23",
-      "data": "/versions/78/78.0.2.bin",
-      "dataPrev": "/versions/78/78.0.1.bin",
+      "code": "78.1",
+      "updated": "2026-08-04",
+      "data": "/versions/78/78.1.bin",
+      "dataPrev": "/versions/78/78.0.2.bin",
       "newFeatureDate": "2026-07-28",
       "backgroundImage": "/backgrounds/78.png",
       "setAsDefault": true,
