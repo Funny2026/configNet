@@ -3,8 +3,11 @@
     {
       "code": "78.2",
       "updated": "2026-08-18",
-      "data": "/versions/78/78.2.bin",
-      "dataPrev": "/versions/78/78.1.bin",
+      "data": "/versions/78/78.2.1.bin",
+      "dataPrevs": [
+        "/versions/78/78.2.bin",
+        "/versions/78/78.1.bin"
+      ],
       "newFeatureDate": "2026-07-28",
       "backgroundImage": "/backgrounds/78.png",
       "setAsDefault": true,
