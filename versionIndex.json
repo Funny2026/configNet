@@ -31,6 +31,34 @@
         "Announcements",
         "EmojiSales"
       ]
+    },
+    {
+      "code": "79.0",
+      "updated": "2026-08-22",
+      "data": "/versions/79/79.0U1.bin",
+      "dataPrevs": [
+        "/versions/78/78.2.1.bin"
+      ],
+      "newFeatureDate": "2026-09-15",
+      "isUnreleased": true,
+      "enabledContents": [
+        "Emojis",
+        "Events",
+        "ShardEvents",
+        "EmojiUpgrades",
+        "WishingStarSeasons",
+        "MissionLevels",
+        "CascadingSales",
+        "GroupCollections",
+        "Giveaways",
+        "Calendars",
+        "GlobalSales",
+        "NarrativeSales",
+        "PrizeWheels",
+        "ShopBoxes",
+        "LuckyBoxes",
+        "PinCollections"
+      ]
     }
   ],
   "blacklistedEmojis": [
