@@ -332,7 +332,9 @@
     "SpaceshipEarth",
     "StainedGlassMagicMirror",
     "PumpkinCarriage",
-    "ElectricalParadeLightning"
+    "ElectricalParadeLightning",
+    "ZurgCostumeAlien",
+    "Andy"
   ],
   "eventNameOverrides": {
     "R72ClearSorcerersSpellboundSummit": "Sorcerer's Spellbound Summit",
