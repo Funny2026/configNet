@@ -34,9 +34,10 @@
     },
     {
       "code": "79.0",
-      "updated": "2026-08-22",
-      "data": "/versions/79/79.0U1.bin",
+      "updated": "2026-08-25",
+      "data": "/versions/79/79.0U2.bin",
       "dataPrevs": [
+        "/versions/79/79.0U1.bin",
         "/versions/78/78.2.1.bin"
       ],
       "newFeatureDate": "2026-09-15",
