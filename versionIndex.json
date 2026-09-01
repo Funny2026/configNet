@@ -10,7 +10,6 @@
       ],
       "newFeatureDate": "2026-07-28",
       "backgroundImage": "/backgrounds/78.png",
-      "setAsDefault": true,
       "enabledContents": [
         "Emojis",
         "Events",
@@ -34,14 +33,14 @@
     },
     {
       "code": "79.0",
-      "updated": "2026-08-29",
-      "data": "/versions/79/79.0U5.bin",
+      "updated": "2026-09-01",
+      "data": "/versions/79/79.0.bin",
       "dataPrevs": [
         "/versions/79/79.0U1.bin",
         "/versions/78/78.2.2.bin"
       ],
       "newFeatureDate": "2026-09-15",
-      "isUnreleased": true,
+      "setAsDefault": true,
       "enabledContents": [
         "Emojis",
         "Events",
@@ -58,7 +57,8 @@
         "PrizeWheels",
         "ShopBoxes",
         "LuckyBoxes",
-        "PinCollections"
+        "PinCollections",
+        "Announcements"
       ]
     }
   ],
