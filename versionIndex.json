@@ -40,6 +40,7 @@
         "/versions/78/78.2.2.bin"
       ],
       "newFeatureDate": "2026-09-15",
+      "backgroundImage": "/backgrounds/79.png",
       "setAsDefault": true,
       "enabledContents": [
         "Emojis",
