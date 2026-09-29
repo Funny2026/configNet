@@ -352,7 +352,9 @@
     "R77PropFab5": "Mickey & Friends",
     "R77TagTeamPerfectPairings": "Perfect Pairings",
     "R78ClearUnderTheSea": "Under the Sea",
-    "R78HideAndSeekElectricalLightParade": "Electrical Parade"
+    "R78HideAndSeekElectricalLightParade": "Electrical Parade",
+    "R79SurvivalPixarVillains": "Pixar Villains & Friends",
+    "R79ClearDisneyVillains": "Disney Frights"
   },
   "backgroundClassColors": {
     "Silver": "rgba(192,192,192,0.7);",
