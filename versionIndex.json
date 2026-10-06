@@ -1,12 +1,12 @@
 {
   "versions": [
     {
-      "code": "79.1",
-      "updated": "2026-09-22",
-      "data": "/versions/79/79.1.bin",
+      "code": "79.2",
+      "updated": "2026-10-06",
+      "data": "/versions/79/79.2.bin",
       "dataPrevs": [
         {
-          "file": "/versions/79/79.0.bin",
+          "file": "/versions/79/79.1.bin",
           "shownInChangelog": true,
           "isPreviousVersion": false
         }
